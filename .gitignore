@@ -274,3 +274,5 @@ cython_debug/
 
 # custom
 composeexample/
+server/
+client/
